@@ -8,8 +8,7 @@ Bu repo [kodluyoruz](https://www.google.com) Front End Eğitiminde oluşturduğu
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ``
-git clone https://github.com/sedaciftcii/kodluyoruzilkrepo.git
-
+git clone https://github.com/sedaciftcii/kodluyoruzilkrepo.git 
 ``
 ## Usage
 
