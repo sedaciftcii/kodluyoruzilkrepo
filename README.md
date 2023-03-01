@@ -17,6 +17,7 @@ Projeyi cloneladıktan sonra VSC programını açınız.
 Linux için:
 
 ``
+
 cd kodluyoruzilkrepo
 code .
 
