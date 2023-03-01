@@ -19,6 +19,7 @@ Linux için:
 ``
 cd kodluyoruzilkrepo
 code .
+
 ``
 ## Contributing
 
