@@ -2,7 +2,7 @@
 
 Bu repo [kodluyoruz](https://www.google.com) Front End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![logo](C:\Users\Seda Çiftçi\Documents\Sites\odev1\kodluyoruzilkrepo\img\odevgorsel.png)
+[logo](C:\Users\Seda Çiftçi\Documents\Sites\odev1\kodluyoruzilkrepo\img\odevgorsel.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
